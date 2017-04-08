@@ -1,3 +1,1 @@
-#!/usr/bin/python
-
-print("Hola Semanauatl")
+print 5 + 7
