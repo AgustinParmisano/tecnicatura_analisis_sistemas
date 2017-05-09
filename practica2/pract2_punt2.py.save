@@ -1,0 +1,7 @@
+#!/usr/bin/python
+
+car = raw_input("Ingrese un carácter: ")
+
+print "Caracter ingresado: %s " % (car)
+
+print "Codigo ascii del caracter %s " % (ord(car)
