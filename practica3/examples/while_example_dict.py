@@ -13,3 +13,4 @@ while not salir:
     salir = input("Terminar:1, Continuar:0 ")
 print("Lista de Personas Agregadas:")
 print(lista_personas)
+print lista_personas[2]["nombre"]
