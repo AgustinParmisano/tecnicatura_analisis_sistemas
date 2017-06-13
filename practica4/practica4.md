@@ -43,3 +43,19 @@ BONUS1: Realizar el juego del ahorcado:
 	-De no estar presente la letra en la palabra deberá restar 1 a la variable vida.
 	-Si la palabra resulta totalmente descubierta se deberá poner la varibale gano en True
 
+BONUS2: Registro de Personas:
+- Defina una función que solicite entradas numéricas de teclado del 1 al 10, de ser mayor a 10 o menor a 1 deberán informar el error y volver a preguntar.
+- Defina una función que imprima: 
+"1. Ingresar datos"
+"2. Listar personas"
+"3. Modificar persona"
+"4. Salir"
+- Defina una función que solicite del teclado nombre, apellido y dni hasta ingresar el dni 0. Las variables ingresadas deberán ser añadidas a un diccionario el cual debe ser retornado al finaliza la función.
+- Defina una función que reciba como parámetro un diccionario y lo agregue a una lista, luego retorne la lista.
+- Defina una función que recorra una lista pasada por parámetro e imprima cada elemento.
+- Defina una fucioón que reciba como parámetro un dni y lo busque dentro de la lista de personas, si lo encuentra deberá solicitar por teclado nombre, apellido y dni para ser reemplazados de la persona encontrada.
+- Defina una función que reciba como parámetro un número entero y haga lo siguiente:
+	- Si se ingresó 1 deberá solicitar que se ingresen datos de personas por teclado y agregarlos como diccionarios a una lista.
+	- Si se ingresó 2 deberá imprimir los datos ingresados de las personas.
+	- Si se ingresa 4 deberá consultar si quiere salir y al ingresar 1 deberá salir y terminar el programa, de lo contrario vuelve a mostrar el menú anterior.
+ 
