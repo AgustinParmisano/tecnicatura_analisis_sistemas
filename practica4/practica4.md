@@ -33,15 +33,15 @@
 15- Definir una función que reciba una lista de carácteres y una lista de enteros y retorne otra cadena con las letras mismas de la cadena en las poiciones que indiquen la lista de enteros y el resto de las letras suplantarlas con "_ "  
 
 BONUS1: Realizar el juego del ahorcado:
--Deberá definir una función juego donde:
-	-Se defina una variable vidas = 10 y una variable ganó = False.
- 	-Se solicite una sola vez que se ingrese una palabra por teclado y se almacene en una variable.
-	-Se haga un loop que sólo termine si la variable vidas = 0 o si la variable gano = True.
-	-Dentro del loop se debe solicitar por teclado sólo 1 letra, de ingresar menos a mas letras deberá informar del error y restar 1 a la variable vidas.
-	-Se deberá recorrer la palabra ingresado por teclado e inspeccionar que el caracter ingresado se encuentre en la palabra.
-	-De estar presente en la palabra la letra se deberá devolver la palabra con esa o esas letras descubiertas y el resto cubiertas con "_ "
-	-De no estar presente la letra en la palabra deberá restar 1 a la variable vida.
-	-Si la palabra resulta totalmente descubierta se deberá poner la varibale gano en True
+- Deberá definir una función juego donde:
+	- Se defina una variable vidas = 10 y una variable ganó = False.
+	- Se solicite una sola vez que se ingrese una palabra por teclado y se almacene en una variable.
+	- Se haga un loop que sólo termine si la variable vidas = 0 o si la variable gano = True.
+	- Dentro del loop se debe solicitar por teclado sólo 1 letra, de ingresar menos a mas letras deberá informar del error y restar 1 a la variable vidas.
+	- Se deberá recorrer la palabra ingresado por teclado e inspeccionar que el caracter ingresado se encuentre en la palabra.
+	- De estar presente en la palabra la letra se deberá devolver la palabra con esa o esas letras descubiertas y el resto cubiertas con "_ "
+	- De no estar presente la letra en la palabra deberá restar 1 a la variable vida.
+	- Si la palabra resulta totalmente descubierta se deberá poner la varibale gano en True
 
 BONUS2: Registro de Personas:
 - Defina una función que solicite entradas numéricas de teclado del 1 al 10, de ser mayor a 10 o menor a 1 deberán informar el error y volver a preguntar.
