@@ -18,9 +18,9 @@
 
 10- Definir un histograma procedimiento() que tome una lista de números enteros e imprima un histograma en la pantalla. Ejemplo: procedimiento([4, 9, 7]) debería imprimir lo siguiente:
 
-****
-*********
-*******
++ + + + 
++ + + + + + + + + 
++ + + + + + +
 
 11- Definir una función llamada palindromo() que tome una palabra y retorne 1 si la misma es palíndromo o 0 si no es lo es. Imprima "La palabra %s es palíndromo" y lo contrario dependiendo el caso.
 
