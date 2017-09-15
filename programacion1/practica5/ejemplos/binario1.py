@@ -1,5 +1,5 @@
 import time
-start_time = time.time()
+
 
 def busqbin(a,l):
 	pos = -1
@@ -18,7 +18,9 @@ def busqbin(a,l):
 	return pos
 
 lista = range(1,9999999)
-print busqbin(55698,lista)
+n = input("Ingrese un numero de 8 cifras: ")
+start_time = time.time()
+print busqbin(n,lista)
 
 end_time = time.time()
 
