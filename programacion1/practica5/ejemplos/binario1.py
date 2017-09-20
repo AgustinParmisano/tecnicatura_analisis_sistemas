@@ -1,6 +1,5 @@
 import time
 
-
 def busqbin(a,l):
 	pos = -1
 	menor = 0
