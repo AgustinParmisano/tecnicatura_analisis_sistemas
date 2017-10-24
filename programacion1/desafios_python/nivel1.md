@@ -1,4 +1,4 @@
-### Recorridos y sumas en arreglos.
+# Recorridos y sumas en arreglos.
 
 ## Problema1:
 
