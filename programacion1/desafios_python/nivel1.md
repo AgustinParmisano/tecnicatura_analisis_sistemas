@@ -20,5 +20,7 @@ Analice si se cumple con los requisitos de cada función.
 Ejemplo:
 
 l = [1,2,3,4,5,6,7,8,9,10,11]
+
 x = 12
+
 resultado = [(1,11),(2,10),(3,9),(4,8),(5,7)] 
