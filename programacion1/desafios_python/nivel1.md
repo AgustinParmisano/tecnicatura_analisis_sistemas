@@ -3,7 +3,7 @@
 ## Problema1:
 
 Desarrole una función que retorne una lista de números enteros random de 2 cifras máximo con longitud random.
-El últio número de lalista debe ser un número random de 3 cifras.
+El último número de la lista debe ser un número random de 100 a 199.
 
 ## Problema2:
 
