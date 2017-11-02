@@ -21,10 +21,10 @@ def seteador_variables():
 	lista = []
 	opcion = raw_input("Ingrese el nombre de la variable (Ingrese salir para terminar) : ")
 	while opcion != "salir":
-		print "usted fue agregando"
 		lista.append(opcion)
-		opcion = raw_input("Ingrese el nombre de la variable (Ingrese salir para terminar) : ")
+		print "usted fue agregando"
 		print lista
+		opcion = raw_input("Ingrese el nombre de la variable (Ingrese salir para terminar) : ")
 	return lista
 
 def configurador(lista_variables):
