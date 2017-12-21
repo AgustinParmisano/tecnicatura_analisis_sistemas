@@ -6,5 +6,5 @@ retornar una lista con dichos números ingresados.
 
 Función 2: Desarrolle una función que dada una lista de número obtenida por parámetro
 multiplique a todos los números por el primero de la lista y los divida por el último.
-Al recorrer la lista se deberá informar en pantalla los números pares.
+Al recorrer la lista se deberá informar en pantalla los números pares.  
 La función deberá retornar la lista de números final.
