@@ -1,0 +1,9 @@
+Justificar falso:
+
+A: Python es un lenguaje de código abierto = V
+
+B: Python es un lenguaje compilado = F; python tiene aspectos de un lenguaje compilado, pero es un lenguaje interpretado, por lo que es mas lento que un lenguaje compilado como C
+
+C: Python es multiplataforma = V
+
+D Python permite importar librerías = V
