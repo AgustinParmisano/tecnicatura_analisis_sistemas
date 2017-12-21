@@ -1,9 +1,10 @@
 Desarrolle un programa que contenga dos funciones:
 
 Función 1: Desarrolle una función que lea de teclado números hasta ingresar el número 0,
-el cual no debe ser procesdado. Cuando se ingresa el número 0 la función deberá
+el cual no debe ser procesado. Cuando se ingresa el número 0 la función deberá
 retornar una lista con dichos números ingresados.
 
 Función 2: Desarrolle una función que dada una lista de número obtenida por parámetro
 multiplique a todos los números por el primero de la lista y los divida por el último.
+Al recorrer la lista se deberá informar en pantalla los números pares.
 La función deberá retornar la lista de números final.
